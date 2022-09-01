@@ -2,6 +2,7 @@
 
 #include "catch.hpp"
 #include "Charging_Current.h"
+#include "High_Resolution_Sensor.h"
 using namespace std;
 
 TEST_CASE("Analysing Multiple Samples")
