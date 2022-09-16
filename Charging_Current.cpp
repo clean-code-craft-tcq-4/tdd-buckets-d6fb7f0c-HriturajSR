@@ -11,7 +11,7 @@ void generateRangeAndPrintOutput(std::vector<int> input_sample)
 
   if (!input_sample.empty())
   {
-    for (i = 0; i < input_sample.size(); ++i)
+    for (i = 0; i < input_sample.size()-1; ++i)
     {
 
       if (count == 0)
